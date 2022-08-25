@@ -1,0 +1,36 @@
+div{
+    color: purple;
+    background-color: rgb(237, 237, 228);
+}
+
+h1{
+    color:darkslategray
+}
+
+h2{
+    color: green;
+}
+
+img{
+    height: auto;
+    width: 750px;
+}
+
+
+.alert-text{
+    color:red;
+    background-color: aliceblue;
+}
+
+#title{
+    color:blueviolet;
+    background-color: blanchedalmond;
+}
+
+.subsection.header{
+    color: hotpink;
+}
+
+.subsection{
+    background-color: azure;
+}
